@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Xiaomi Redmi Note 5",
+		"brand": "Xiaomi",
+		"codename": "whyred",
+		"supported_versions": [
+			{
+				"version_code": "ten_vanilla",
+				"xda_thread": ""
+			},
+			{
+				"version_code": "ten_gapped",
+				"xda_thread": ""
+			}
+		]
+	},
+	{
+		"name": "Xiaomi Redmi 5 Plus",
+		"brand": "Xiaomi",
+		"codename": "vince",
+		"supported_versions": [
+			{
+				"version_code": "ten_gapped",
+				"xda_thread": ""
+			}
+		]
+	},
+	{
+		"name": "OnePlus One",
+		"brand": "Oneplus",
+		"codename": "bacon",
+		"supported_versions": [
+			{
+				"version_code": "ten_vanilla",
+				"xda_thread": ""
+			}
+		]
+	}
+]

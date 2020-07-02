@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Ken Harris",
+		"country": "IN",
+		"github_username": "KenHV",
+		"xda_url": "",
+		"telegram_url": "http://t.me/KenHV",
+		"devices": [
+			{
+				"name": "vince",
+				"versions": [
+					"ten_gapped"
+				]
+			}
+		]
+	}
+]
