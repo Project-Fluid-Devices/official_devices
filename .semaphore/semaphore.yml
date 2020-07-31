@@ -1,0 +1,20 @@
+version: v1.0
+name: Initial Pipeline
+agent:
+  machine:
+    type: e1-standard-2
+    os_image: ubuntu1804
+blocks:
+  - name: CI checks
+    task:
+      jobs:
+        - name: Main job
+          commands:
+            - checkout
+            - chmod +x scripts/update.sh
+            - scripts/update.sh
+      env_vars:
+        - name: TG_FLUID_MAINTAINERS_CHAT_ID
+          value: '-445055546'
+      secrets:
+        - name: FluidCI Bot API token
