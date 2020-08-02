@@ -19,7 +19,7 @@ MESSAGE_ID=$(curl -s -X POST https://api.telegram.org/bot$TG_BOT_TOKEN/sendMessa
 
 edit_ci_message "First step: Checking changed JSONs"
 
-CHANGED_JSONS="$(git diff --name-only HEAD~1 . | grep *.json)"
+CHANGED_JSONS="$(git diff --name-only HEAD~1 . | grep .json)"
 if [ "$CHANGED_JSONS" = "" ]; then
 	edit_ci_message "No JSON has been added or changed!"
 	exit
