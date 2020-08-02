@@ -1,9 +1,7 @@
 [
 	{
 		"name": "Anirudh",
-		"country": "IN",
 		"github_username": "AndroBuddy",
-		"xda_url": "",
 		"telegram_url": "http://t.me/AndroBuddy007",
 		"role": "Lead designer and frontend developer",
 		"devices": [
@@ -11,9 +9,7 @@
 	},
 	{
 		"name": "Pavel Petrov",
-		"country": "BG",
 		"github_username": "ender1324",
-		"xda_url": "",
 		"telegram_url": "http://t.me/ender1324",
 		"role": "Lead core developer",
 		"devices": [
@@ -27,9 +23,7 @@
 	},
 	{
 		"name": "Sahil Gupte",
-		"country": "IN",
 		"github_username": "Ovenoboyo",
-		"xda_url": "",
 		"telegram_url": "http://t.me/Ovenoboyo",
 		"role": "Backend website manager",
 		"devices": [
@@ -37,9 +31,7 @@
 	},
 	{
 		"name": "Sebastiano Barezzi",
-		"country": "IT",
 		"github_username": "SebaUbuntu",
-		"xda_url": "",
 		"telegram_url": "http://t.me/SebaUbuntu",
 		"role": "Infrastucture and maintainers relationship manager",
 		"devices": [
