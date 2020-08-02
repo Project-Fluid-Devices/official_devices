@@ -16,6 +16,22 @@
 		}
 	},
 	{
+		"name": "Redmi Note 9S",
+		"brand": "Redmi",
+		"codename": "curtana",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Daniele Gigantino",
+			"github_username": "maffeen",
+			"telegram_url": "http://t.me/maffeen"
+		},
+		"supported_versions": {
+			"ten_gapped": {
+				"dropped": false
+			}
+		}
+	},
+	{
 		"name": "Xiaomi Redmi 5 Plus",
 		"brand": "Xiaomi",
 		"codename": "vince",
