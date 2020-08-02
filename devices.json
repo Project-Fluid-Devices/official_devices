@@ -3,6 +3,11 @@
 		"name": "Xiaomi Redmi Note 5",
 		"brand": "Xiaomi",
 		"codename": "whyred",
+		"maintainer": {
+			"name": "Sebastiano Barezzi",
+			"github_username": "SebaUbuntu",
+			"telegram_url": "http://t.me/SebaUbuntu"
+		},
 		"supported_versions": [
 			{
 				"version_code": "ten_vanilla",
@@ -18,6 +23,11 @@
 		"name": "Xiaomi Redmi 5 Plus",
 		"brand": "Xiaomi",
 		"codename": "vince",
+		"maintainer": {
+			"name": "Sinchan Dasgupta",
+			"github_username": "sinchandasgupta",
+			"telegram_url": "http://t.me/iamsinchan123"
+		},
 		"supported_versions": [
 			{
 				"version_code": "ten_gapped",
@@ -29,6 +39,11 @@
 		"name": "OnePlus One",
 		"brand": "Oneplus",
 		"codename": "bacon",
+		"maintainer": {
+			"name": "Pavel Petrov",
+			"github_username": "ender1324",
+			"telegram_url": "http://t.me/ender1324"
+		},
 		"supported_versions": [
 			{
 				"version_code": "ten_vanilla",

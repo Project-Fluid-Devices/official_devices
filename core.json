@@ -3,23 +3,13 @@
 		"name": "Anirudh",
 		"github_username": "AndroBuddy",
 		"telegram_url": "http://t.me/AndroBuddy007",
-		"role": "Lead designer and frontend developer",
-		"devices": [
-		]
+		"role": "Lead designer and frontend developer"
 	},
 	{
 		"name": "Pavel Petrov",
 		"github_username": "ender1324",
 		"telegram_url": "http://t.me/ender1324",
-		"role": "Lead core developer",
-		"devices": [
-			{
-				"name": "bacon",
-				"versions": [
-					"ten_vanilla"
-				]
-			}
-		]
+		"role": "Lead core developer"
 	},
 	{
 		"name": "Sahil Gupte",
@@ -33,15 +23,6 @@
 		"name": "Sebastiano Barezzi",
 		"github_username": "SebaUbuntu",
 		"telegram_url": "http://t.me/SebaUbuntu",
-		"role": "Infrastucture and maintainers relationship manager",
-		"devices": [
-			{
-				"name": "whyred",
-				"versions": [
-					"ten_vanilla",
-					"ten_gapped"
-				]
-			}
-		]
+		"role": "Infrastucture and maintainers relationship manager"
 	}
 ]
