@@ -1,20 +1,16 @@
 [
 	{
-		"name": "Xiaomi Redmi Note 5",
-		"brand": "Xiaomi",
-		"codename": "whyred",
+		"name": "OnePlus One",
+		"brand": "Oneplus",
+		"codename": "bacon",
 		"maintainer": {
-			"name": "Sebastiano Barezzi",
-			"github_username": "SebaUbuntu",
-			"telegram_url": "http://t.me/SebaUbuntu"
+			"name": "Pavel Petrov",
+			"github_username": "ender1324",
+			"telegram_url": "http://t.me/ender1324"
 		},
 		"supported_versions": [
 			{
 				"version_code": "ten_vanilla",
-				"xda_thread": ""
-			},
-			{
-				"version_code": "ten_gapped",
 				"xda_thread": ""
 			}
 		]
@@ -36,17 +32,21 @@
 		]
 	},
 	{
-		"name": "OnePlus One",
-		"brand": "Oneplus",
-		"codename": "bacon",
+		"name": "Xiaomi Redmi Note 5",
+		"brand": "Xiaomi",
+		"codename": "whyred",
 		"maintainer": {
-			"name": "Pavel Petrov",
-			"github_username": "ender1324",
-			"telegram_url": "http://t.me/ender1324"
+			"name": "Sebastiano Barezzi",
+			"github_username": "SebaUbuntu",
+			"telegram_url": "http://t.me/SebaUbuntu"
 		},
 		"supported_versions": [
 			{
 				"version_code": "ten_vanilla",
+				"xda_thread": ""
+			},
+			{
+				"version_code": "ten_gapped",
 				"xda_thread": ""
 			}
 		]
