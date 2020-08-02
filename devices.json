@@ -1,8 +1,7 @@
-[
-	{
+{
+	"bacon": {
 		"name": "OnePlus One",
 		"brand": "Oneplus",
-		"codename": "bacon",
 		"xda_thread": "",
 		"maintainer": {
 			"name": "Pavel Petrov",
@@ -15,10 +14,9 @@
 			}
 		}
 	},
-	{
+	"curtana": {
 		"name": "Redmi Note 9S",
 		"brand": "Redmi",
-		"codename": "curtana",
 		"xda_thread": "",
 		"maintainer": {
 			"name": "Daniele Gigantino",
@@ -31,10 +29,9 @@
 			}
 		}
 	},
-	{
+	"vince": {
 		"name": "Xiaomi Redmi 5 Plus",
 		"brand": "Xiaomi",
-		"codename": "vince",
 		"xda_thread": "",
 		"maintainer": {
 			"name": "Sinchan Dasgupta",
@@ -47,10 +44,9 @@
 			}
 		}
 	},
-	{
+	"whyred": {
 		"name": "Xiaomi Redmi Note 5",
 		"brand": "Xiaomi",
-		"codename": "whyred",
 		"xda_thread": "",
 		"maintainer": {
 			"name": "Sebastiano Barezzi",
@@ -66,4 +62,4 @@
 			}
 		}
 	}
-]
+}
