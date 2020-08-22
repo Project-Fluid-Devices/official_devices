@@ -54,9 +54,6 @@
 			"telegram_url": "http://t.me/SebaUbuntu"
 		},
 		"supported_versions": {
-			"ten_vanilla": {
-				"dropped": false
-			},
 			"ten_gapped": {
 				"dropped": false
 			}
