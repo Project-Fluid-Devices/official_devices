@@ -58,5 +58,20 @@
 				"dropped": false
 			}
 		}
+	},
+	"davinci": {
+		"name": "Xiaomi Mi 9T",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Kirill Ermolitskii",
+			"github_username": "zadli",
+			"telegram_url": "http://t.me/ZadliM"
+		},
+		"supported_versions": {
+			"ten_gapped": {
+				"dropped": false
+			}
+		}
 	}
 }
