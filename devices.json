@@ -73,5 +73,20 @@
 				"dropped": false
 			}
 		}
+	},
+	"j4primelte": {
+		"name": "Samsung Galaxy J4+",
+		"brand": "Samsung",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "George V",
+			"github_username": "GeorgeV220",
+			"telegram_url": "http://t.me/georgev22"
+		},
+		"supported_versions": {
+			"ten_gapped": {
+				"dropped": false
+			}
+		}
 	}
 }
