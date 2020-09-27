@@ -88,5 +88,20 @@
 				"dropped": false
 			}
 		}
-	}
+	},
+	"cepheus": {
+		"name": "Xiaomi Mi 9",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Fynn R",
+			"github_username": "dyrex2004",
+			"telegram_url": "http://t.me/dyrex2004"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	}	
 }
