@@ -14,6 +14,21 @@
 			}
 		}
 	},
+	"cepheus": {
+		"name": "Xiaomi Mi 9",
+		"brand": "Xiaomi",
+		"xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-fluid-1-0-xiaomi-mi9-t4168951",
+		"maintainer": {
+			"name": "Fynn R",
+			"github_username": "dyrex2004",
+			"telegram_url": "http://t.me/dyrex2004"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	},
 	"curtana": {
 		"name": "Redmi Note 9S",
 		"brand": "Redmi",
@@ -22,6 +37,36 @@
 			"name": "Daniele Gigantino",
 			"github_username": "maffeen",
 			"telegram_url": "http://t.me/maffeen"
+		},
+		"supported_versions": {
+			"ten_gapped": {
+				"dropped": false
+			}
+		}
+	},
+	"davinci": {
+		"name": "Xiaomi Mi 9T",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Kirill Ermolitskii",
+			"github_username": "zadli",
+			"telegram_url": "http://t.me/ZadliM"
+		},
+		"supported_versions": {
+			"ten_gapped": {
+				"dropped": false
+			}
+		}
+	},
+	"j4primelte": {
+		"name": "Samsung Galaxy J4+",
+		"brand": "Samsung",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "George V",
+			"github_username": "GeorgeV220",
+			"telegram_url": "http://t.me/georgev22"
 		},
 		"supported_versions": {
 			"ten_gapped": {
@@ -58,51 +103,6 @@
 				"dropped": false
 			},
 			"ten_gapped": {
-				"dropped": false
-			}
-		}
-	},
-	"davinci": {
-		"name": "Xiaomi Mi 9T",
-		"brand": "Xiaomi",
-		"xda_thread": "",
-		"maintainer": {
-			"name": "Kirill Ermolitskii",
-			"github_username": "zadli",
-			"telegram_url": "http://t.me/ZadliM"
-		},
-		"supported_versions": {
-			"ten_gapped": {
-				"dropped": false
-			}
-		}
-	},
-	"j4primelte": {
-		"name": "Samsung Galaxy J4+",
-		"brand": "Samsung",
-		"xda_thread": "",
-		"maintainer": {
-			"name": "George V",
-			"github_username": "GeorgeV220",
-			"telegram_url": "http://t.me/georgev22"
-		},
-		"supported_versions": {
-			"ten_gapped": {
-				"dropped": false
-			}
-		}
-	},
-	"cepheus": {
-		"name": "Xiaomi Mi 9",
-		"brand": "Xiaomi",
-		"xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-fluid-1-0-xiaomi-mi9-t4168951",
-		"maintainer": {
-			"name": "Fynn R",
-			"github_username": "dyrex2004",
-			"telegram_url": "http://t.me/dyrex2004"
-		},
-		"supported_versions": {
-			"eleven_gapped": {
 				"dropped": false
 			}
 		}
