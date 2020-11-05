@@ -17,4 +17,4 @@ blocks:
         - name: TG_FLUID_MAINTAINERS_CHAT_ID
           value: '-445055546'
       secrets:
-        - name: FluidCI Bot API token
+        - name: TG_BOT_TOKEN
