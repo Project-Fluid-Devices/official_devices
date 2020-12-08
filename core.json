@@ -6,6 +6,12 @@
 		"role": "Lead designer and frontend developer"
 	},
 	{
+		"name": "Fynn",
+		"github_username": "elluzion",
+		"telegram_url": "http://t.me/elluzion",
+		"role": "Frontend Dev"
+	},
+	{
 		"name": "Pavel Petrov",
 		"github_username": "ender1324",
 		"telegram_url": "http://t.me/ender1324",
@@ -15,9 +21,7 @@
 		"name": "Sahil Gupte",
 		"github_username": "Ovenoboyo",
 		"telegram_url": "http://t.me/Ovenoboyo",
-		"role": "Backend website manager",
-		"devices": [
-		]
+		"role": "Backend website manager"
 	},
 	{
 		"name": "Sebastiano Barezzi",
