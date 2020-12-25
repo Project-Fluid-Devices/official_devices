@@ -84,8 +84,14 @@
 			"telegram_url": "http://t.me/sinchan_dasgupta"
 		},
 		"supported_versions": {
-			"ten_gapped": {
+			"eleven_gapped": {
 				"dropped": false
+			},
+			"eleven_gappless": {
+				"dropped": false
+			},
+			"ten_gapped": {
+				"dropped": true
 			}
 		}
 	},
