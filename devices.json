@@ -14,6 +14,21 @@
 			}
 		}
 	},
+	"beryllium": {
+		"name": "Xiaomi Poco F1",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Ninad Patil",
+			"github_username": "PainKiller3",
+			"telegram_url": "http://t.me/Reignz3"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	},
 	"cepheus": {
 		"name": "Xiaomi Mi 9",
 		"brand": "Xiaomi",
