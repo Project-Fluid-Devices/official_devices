@@ -74,6 +74,21 @@
 			}
 		}
 	},
+	"raphael": {
+		"name": "Xiaomi Mi 9T Pro",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Alexandru S",
+			"github_username": "sashascurtu",
+			"telegram_url": "http://t.me/san9scurtu"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	},
 	"vince": {
 		"name": "Xiaomi Redmi 5 Plus",
 		"brand": "Xiaomi",
