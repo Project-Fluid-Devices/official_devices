@@ -89,6 +89,24 @@
 			}
 		}
 	},
+	"lavender": {
+		"name": "Xiaomi Redmi Note 7",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Sfier Reichenbach Phallus",
+			"github_username": "DillerOFire",
+			"telegram_url": "https://t.me/VerpaPhallus"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			},
+			"eleven_gappless": {
+				"dropped": false
+			}
+		}
+	},
 	"raphael": {
 		"name": "Xiaomi Mi 9T Pro",
 		"brand": "Xiaomi",
