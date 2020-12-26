@@ -74,6 +74,21 @@
 			}
 		}
 	},
+	"dipper": {
+		"name": "Xiaomi Mi 8",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Pavel Petrov",
+			"github_username": "ender1324",
+			"telegram_url": "http://t.me/ender1324"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	},
 	"j4primelte": {
 		"name": "Samsung Galaxy J4+",
 		"brand": "Samsung",
