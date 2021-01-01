@@ -35,11 +35,14 @@
 		"xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-fluid-1-0-xiaomi-mi9-t4168951",
 		"maintainer": {
 			"name": "Fynn R",
-			"github_username": "dyrex2004",
-			"telegram_url": "http://t.me/dyrex2004"
+			"github_username": "elluzion",
+			"telegram_url": "http://t.me/elluzion"
 		},
 		"supported_versions": {
 			"eleven_gapped": {
+				"dropped": false
+			},
+			"eleven_gappless": {
 				"dropped": false
 			}
 		}
