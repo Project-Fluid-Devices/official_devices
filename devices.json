@@ -47,17 +47,17 @@
 			}
 		}
 	},
-	"curtana": {
-		"name": "Redmi Note 9S",
+	"miatoll": {
+		"name": "Redmi Note 9 Series",
 		"brand": "Redmi",
 		"xda_thread": "",
 		"maintainer": {
-			"name": "Daniele Gigantino",
-			"github_username": "maffeen",
-			"telegram_url": "http://t.me/maffeen"
+			"name": "Ramii Ahmed",
+			"github_username": "ramisky",
+			"telegram_url": "http://t.me/ramiskyy"
 		},
 		"supported_versions": {
-			"ten_gapped": {
+			"eleven_gapped": {
 				"dropped": false
 			}
 		}
