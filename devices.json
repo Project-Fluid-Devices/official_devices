@@ -1,19 +1,4 @@
 {
-	"bacon": {
-		"name": "OnePlus One",
-		"brand": "Oneplus",
-		"xda_thread": "",
-		"maintainer": {
-			"name": "Pavel Petrov",
-			"github_username": "ender1324",
-			"telegram_url": "http://t.me/ender1324"
-		},
-		"supported_versions": {
-			"ten_vanilla": {
-				"dropped": false
-			}
-		}
-	},
 	"beryllium": {
 		"name": "Xiaomi Poco F1",
 		"brand": "Xiaomi",
@@ -43,21 +28,6 @@
 				"dropped": false
 			},
 			"eleven_gappless": {
-				"dropped": false
-			}
-		}
-	},
-	"miatoll": {
-		"name": "Redmi Note 9 Series",
-		"brand": "Redmi",
-		"xda_thread": "",
-		"maintainer": {
-			"name": "Ramii Ahmed",
-			"github_username": "ramisky",
-			"telegram_url": "http://t.me/ramiskyy"
-		},
-		"supported_versions": {
-			"eleven_gapped": {
 				"dropped": false
 			}
 		}
@@ -92,21 +62,6 @@
 			}
 		}
 	},
-	"j4primelte": {
-		"name": "Samsung Galaxy J4+",
-		"brand": "Samsung",
-		"xda_thread": "",
-		"maintainer": {
-			"name": "George V",
-			"github_username": "GeorgeV220",
-			"telegram_url": "http://t.me/georgev22"
-		},
-		"supported_versions": {
-			"ten_gapped": {
-				"dropped": false
-			}
-		}
-	},
 	"lavender": {
 		"name": "Xiaomi Redmi Note 7",
 		"brand": "Xiaomi",
@@ -125,6 +80,21 @@
 			}
 		}
 	},
+        "miatoll": {
+                "name": "Redmi Note 9 Series",
+                "brand": "Redmi",
+                "xda_thread": "",
+                "maintainer": {
+                        "name": "Ramii Ahmed",
+                        "github_username": "ramisky",
+                        "telegram_url": "http://t.me/ramiskyy"
+                },
+                "supported_versions": {
+                        "eleven_gapped": {
+                                "dropped": false
+                        }
+                }
+        },
 	"raphael": {
 		"name": "Xiaomi Mi 9T Pro",
 		"brand": "Xiaomi",
@@ -175,7 +145,7 @@
 				"dropped": false
 			},
 			"ten_gapped": {
-				"dropped": false
+				"dropped": true
 			}
 		}
 	}
