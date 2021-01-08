@@ -80,21 +80,21 @@
 			}
 		}
 	},
-        "miatoll": {
-                "name": "Redmi Note 9 Series",
-                "brand": "Redmi",
-                "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-1-2-fluid-1-1-for-miatoll.4212633/",
-                "maintainer": {
-                        "name": "Ramii Ahmed",
-                        "github_username": "ramisky",
-                        "telegram_url": "http://t.me/ramiskyy"
-                },
-                "supported_versions": {
-                        "eleven_gapped": {
-                                "dropped": false
-                        }
-                }
-        },
+	"miatoll": {
+		"name": "Redmi Note 9 Series",
+		"brand": "Redmi",
+		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-1-2-fluid-1-1-for-miatoll.4212633/",
+		"maintainer": {
+			"name": "Ramii Ahmed",
+			"github_username": "ramisky",
+			"telegram_url": "http://t.me/ramiskyy"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	},
 	"raphael": {
 		"name": "Xiaomi Mi 9T Pro",
 		"brand": "Xiaomi",
