@@ -14,6 +14,21 @@
 			}
 		}
 	},
+	"lmi": {
+		"name": "Xiaomi Poco F2 Pro",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Christian Giacomelli",
+			"github_username": "Jack1Player",
+			"telegram_url": "https://t.me/Jack1Player"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	},
 	"cepheus": {
 		"name": "Xiaomi Mi 9",
 		"brand": "Xiaomi",
