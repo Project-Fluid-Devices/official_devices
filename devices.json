@@ -1,5 +1,6 @@
-{
-	"beryllium": {
+[
+	{
+		"codename": "beryllium",
 		"name": "Xiaomi Poco F1",
 		"brand": "Xiaomi",
 		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-25-12-2020-fluid-1-0-for-the-xiaomi-poco-f1.4210509/",
@@ -17,7 +18,7 @@
 			}
 		}
 	},
-	"lmi": {
+	{
 		"name": "Xiaomi Poco F2 Pro",
 		"brand": "Xiaomi",
 		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-01-08-fluid-1-1-for-the-redmi-k30-pro-poco-f2-pro.4215465/",
@@ -32,7 +33,8 @@
 			}
 		}
 	},
-	"cepheus": {
+	{
+		"codename": "cepheus",
 		"name": "Xiaomi Mi 9",
 		"brand": "Xiaomi",
 		"xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-fluid-1-0-xiaomi-mi9-t4168951",
@@ -50,7 +52,8 @@
 			}
 		}
 	},
-	"davinci": {
+	{
+		"codename": "davinci",
 		"name": "Xiaomi Mi 9T",
 		"brand": "Xiaomi",
 		"xda_thread": "",
@@ -68,7 +71,8 @@
 			}
 		}
 	},
-	"dipper": {
+	{
+		"codename": "dipper",
 		"name": "Xiaomi Mi 8",
 		"brand": "Xiaomi",
 		"xda_thread": "",
@@ -83,7 +87,8 @@
 			}
 		}
 	},
-	"lavender": {
+	{
+		"codename": "lavender",
 		"name": "Xiaomi Redmi Note 7",
 		"brand": "Xiaomi",
 		"xda_thread": "",
@@ -101,25 +106,26 @@
 			}
 		}
 	},
-        "ginkgo": {
-                "name": "Xiaomi Redmi Note 8/8T",
-                "brand": "Xiaomi",
-                "xda_thread": "",
-                "maintainer": {
-                        "name": "Alexander K",
-                        "github_username": "YaAlex3",
-                        "telegram_url": "https://t.me/YaAlex"
-                },
-                "supported_versions": {
-                        "eleven_gapped": {
-                                "dropped": false
-                        },
-                        "eleven_gappless": {
-                                "dropped": false
-                        }
-                }
-        },
-	"miatoll": {
+	{
+		"name": "Xiaomi Redmi Note 8/8T",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Alexander K",
+			"github_username": "YaAlex3",
+			"telegram_url": "https://t.me/YaAlex"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			},
+			"eleven_gappless": {
+				"dropped": false
+			}
+		}
+	},
+	{
+		"codename": "miatoll",
 		"name": "Redmi Note 9 Series",
 		"brand": "Redmi",
 		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-1-2-fluid-1-1-for-miatoll.4212633/",
@@ -133,11 +139,12 @@
 				"dropped": false
 			},
 			"eleven_gappless": {
-                                "dropped": false
-                        }
+        "dropped": false
+      }
 		}
 	},
-	"raphael": {
+	{
+		"codename": "raphael",
 		"name": "Xiaomi Mi 9T Pro",
 		"brand": "Xiaomi",
 		"xda_thread": "",
@@ -152,7 +159,8 @@
 			}
 		}
 	},
-	"vince": {
+	{
+		"codename": "vince",
 		"name": "Xiaomi Redmi 5 Plus",
 		"brand": "Xiaomi",
 		"xda_thread": "",
@@ -173,7 +181,8 @@
 			}
 		}
 	},
-	"whyred": {
+	{
+		"codename": "whyred",
 		"name": "Xiaomi Redmi Note 5",
 		"brand": "Xiaomi",
 		"xda_thread": "",
@@ -191,7 +200,8 @@
 			}
 		}
 	},
-	"rolex": {
+	{
+		"codename": "rolex",
 		"name": "Xiaomi Redmi 4A",
 		"brand": "Xiaomi",
 		"xda_thread": "",
@@ -206,4 +216,4 @@
 			}
 		}
 	}
-}
+]
