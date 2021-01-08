@@ -1,6 +1,7 @@
 {
-	"beryllium": {
+	"Beryllium": {
 		"name": "Xiaomi Poco F1",
+		"codename": "beryllium",
 		"brand": "Xiaomi",
 		"xda_thread": "",
 		"maintainer": {
@@ -14,8 +15,9 @@
 			}
 		}
 	},
-	"cepheus": {
+	"Cepheus": {
 		"name": "Xiaomi Mi 9",
+		"codename": "cepheus",
 		"brand": "Xiaomi",
 		"xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-fluid-1-0-xiaomi-mi9-t4168951",
 		"maintainer": {
@@ -32,8 +34,9 @@
 			}
 		}
 	},
-	"davinci": {
+	"Davinci": {
 		"name": "Xiaomi Mi 9T",
+		"codename": "davinci",
 		"brand": "Xiaomi",
 		"xda_thread": "",
 		"maintainer": {
@@ -47,8 +50,9 @@
 			}
 		}
 	},
-	"dipper": {
+	"Dipper": {
 		"name": "Xiaomi Mi 8",
+		"codename": "dipper",
 		"brand": "Xiaomi",
 		"xda_thread": "",
 		"maintainer": {
@@ -62,8 +66,9 @@
 			}
 		}
 	},
-	"lavender": {
+	"Lavender": {
 		"name": "Xiaomi Redmi Note 7",
+		"codename": "lavender",
 		"brand": "Xiaomi",
 		"xda_thread": "",
 		"maintainer": {
@@ -80,23 +85,25 @@
 			}
 		}
 	},
-        "miatoll": {
-                "name": "Redmi Note 9 Series",
-                "brand": "Redmi",
-                "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-1-2-fluid-1-1-for-miatoll.4212633/",
-                "maintainer": {
-                        "name": "Ramii Ahmed",
-                        "github_username": "ramisky",
-                        "telegram_url": "http://t.me/ramiskyy"
-                },
-                "supported_versions": {
-                        "eleven_gapped": {
-                                "dropped": false
-                        }
-                }
-        },
-	"raphael": {
+	"Miatoll": {
+		"name": "Redmi Note 9 Series",
+		"codename": "miatoll",
+		"brand": "Redmi",
+		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-1-2-fluid-1-1-for-miatoll.4212633/",
+		"maintainer": {
+			"name": "Ramii Ahmed",
+			"github_username": "ramisky",
+			"telegram_url": "http://t.me/ramiskyy"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+					"dropped": false
+			}
+		}
+	},
+	"Raphael": {
 		"name": "Xiaomi Mi 9T Pro",
+		"codename": "raphael",
 		"brand": "Xiaomi",
 		"xda_thread": "",
 		"maintainer": {
@@ -110,8 +117,9 @@
 			}
 		}
 	},
-	"vince": {
+	"Vince": {
 		"name": "Xiaomi Redmi 5 Plus",
+		"codename": "vince",
 		"brand": "Xiaomi",
 		"xda_thread": "",
 		"maintainer": {
@@ -131,8 +139,9 @@
 			}
 		}
 	},
-	"whyred": {
+	"Whyred": {
 		"name": "Xiaomi Redmi Note 5",
+		"codename": "whyred",
 		"brand": "Xiaomi",
 		"xda_thread": "",
 		"maintainer": {
