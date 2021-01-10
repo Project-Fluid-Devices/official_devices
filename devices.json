@@ -98,6 +98,21 @@
 			}
 		}
 	},
+        "ginkgo": {
+                "name": "Xiaomi Redmi Note 8/8T",
+                "brand": "Xiaomi",
+                "xda_thread": "",
+                "maintainer": {
+                        "name": "Alexander K",
+                        "github_username": "YaAlex3",
+                        "telegram_url": "https://t.me/YaAlex"
+                },
+                "supported_versions": {
+                        "eleven_gappless": {
+                                "dropped": false
+                        }
+                }
+        },
 	"miatoll": {
 		"name": "Redmi Note 9 Series",
 		"brand": "Redmi",
