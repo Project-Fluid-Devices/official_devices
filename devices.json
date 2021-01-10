@@ -2,7 +2,7 @@
 	"beryllium": {
 		"name": "Xiaomi Poco F1",
 		"brand": "Xiaomi",
-		"xda_thread": "",
+		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-25-12-2020-fluid-1-0-for-the-xiaomi-poco-f1.4210509/",
 		"maintainer": {
 			"name": "Ninad Patil",
 			"github_username": "PainKiller3",
@@ -10,6 +10,9 @@
 		},
 		"supported_versions": {
 			"eleven_gapped": {
+				"dropped": false
+			},
+			"eleven_gappless": {
 				"dropped": false
 			}
 		}
