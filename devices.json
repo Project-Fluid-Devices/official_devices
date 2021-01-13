@@ -60,9 +60,12 @@
 			"telegram_url": "http://t.me/ZadliM"
 		},
 		"supported_versions": {
-			"ten_gapped": {
+			"eleven_gapped": {
 				"dropped": false
-			}
+			},
+			"ten_gapped": {
+				"dropped": true
+			}			
 		}
 	},
 	"dipper": {
