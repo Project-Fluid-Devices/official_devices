@@ -3,30 +3,30 @@
 		"name": "Anirudh",
 		"github_username": "AndroBuddy",
 		"telegram_url": "http://t.me/AndroBuddy007",
-		"role": "Lead designer and frontend developer"
+		"role": "Founder & UI/UX dev"
 	},
 	{
 		"name": "Fynn",
 		"github_username": "elluzion",
 		"telegram_url": "http://t.me/elluzion",
-		"role": "Frontend Dev"
+		"role": "Designer & Frontend dev"
 	},
 	{
-		"name": "Pavel Petrov",
+		"name": "Pavel",
 		"github_username": "ender1324",
 		"telegram_url": "http://t.me/ender1324",
-		"role": "Lead core developer"
+		"role": "Founder & Core dev"
 	},
 	{
-		"name": "Sahil Gupte",
+		"name": "Sahil",
 		"github_username": "Ovenoboyo",
 		"telegram_url": "http://t.me/Ovenoboyo",
-		"role": "Backend website manager"
+		"role": "Founder & Backend dev"
 	},
 	{
-		"name": "Sebastiano Barezzi",
+		"name": "Sebastiano",
 		"github_username": "SebaUbuntu",
 		"telegram_url": "http://t.me/SebaUbuntu",
-		"role": "Infrastucture and maintainers manager"
+		"role": "Infrastructure & dev"
 	}
 ]
