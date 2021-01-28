@@ -2,6 +2,7 @@
 	{
 		"name": "Anirudh",
 		"github_username": "AndroBuddy",
+		"twitter_url": "https://twitter.com/androbuddy007",
 		"telegram_url": "http://t.me/AndroBuddy007",
 		"profile_image": "https://github.com/AndroBuddy.png",
 		"role": "Founder & UI/UX dev"
@@ -9,6 +10,7 @@
 	{
 		"name": "Fynn",
 		"github_username": "elluzion",
+		"twitter_url": "https://twitter.com/elluzionmusic",
 		"telegram_url": "http://t.me/elluzion",
 		"profile_image": "https://github.com/elluzion.png",
 		"role": "Designer & Frontend dev"
@@ -16,6 +18,7 @@
 	{
 		"name": "Pavel",
 		"github_username": "ender1324",
+		"twitter_url": "https://twitter.com/ender13241",
 		"telegram_url": "http://t.me/ender1324",
 		"profile_image": "https://github.com/ender1324.png",
 		"role": "Founder & Core dev"
@@ -23,6 +26,7 @@
 	{
 		"name": "Sahil",
 		"github_username": "Ovenoboyo",
+		"twitter_url": "https://twitter.com/Ovenoboyo69",
 		"telegram_url": "http://t.me/Ovenoboyo",
 		"profile_image": "https://github.com/Ovenoboyo.png",
 		"role": "Founder & Backend dev"
@@ -30,6 +34,7 @@
 	{
 		"name": "Sebastiano",
 		"github_username": "SebaUbuntu",
+		"twitter_url": "https://twitter.com/SebaUbuntu",
 		"telegram_url": "http://t.me/SebaUbuntu",
 		"profile_image": "https://github.com/SebaUbuntu.png",
 		"role": "Infrastructure & dev"
