@@ -19,6 +19,7 @@
 		}
 	},
 	{
+		"codename": "lmi",
 		"name": "Xiaomi Poco F2 Pro",
 		"brand": "Xiaomi",
 		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-01-08-fluid-1-1-for-the-redmi-k30-pro-poco-f2-pro.4215465/",
@@ -107,6 +108,7 @@
 		}
 	},
 	{
+		"codename": "ginkgo",
 		"name": "Xiaomi Redmi Note 8/8T",
 		"brand": "Xiaomi",
 		"xda_thread": "",
