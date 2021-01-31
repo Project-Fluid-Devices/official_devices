@@ -31,7 +31,10 @@
 		"supported_versions": {
 			"eleven_gapped": {
 				"dropped": false
-			}
+			},
+			"eleven_gappless": {
+				"dropped": false
+                        }
 		}
 	},
 	{
