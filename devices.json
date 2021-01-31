@@ -161,6 +161,22 @@
 			}
 		}
 	},
+    	{
+		"codename": "rolex",
+		"name": "Xiaomi Redmi 4A",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "JoyalJose",
+			"github_username": "Foxtrot47",
+			"telegram_url": "http://t.me/Foxtrot47"
+		},
+		"supported_versions": {
+			"eleven_gappless": {
+				"dropped": false
+			}
+		}
+	},
 	{
 		"codename": "vince",
 		"name": "Xiaomi Redmi 5 Plus",
@@ -199,22 +215,6 @@
 			},
 			"ten_gapped": {
 				"dropped": true
-			}
-		}
-	},
-	{
-		"codename": "rolex",
-		"name": "Xiaomi Redmi 4A",
-		"brand": "Xiaomi",
-		"xda_thread": "",
-		"maintainer": {
-			"name": "JoyalJose",
-			"github_username": "Foxtrot47",
-			"telegram_url": "http://t.me/Foxtrot47"
-		},
-		"supported_versions": {
-			"eleven_gappless": {
-				"dropped": false
 			}
 		}
 	}
