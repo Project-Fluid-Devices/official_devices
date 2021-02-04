@@ -176,7 +176,7 @@
 		},
 		"supported_versions": {
 			"eleven_gappless": {
-				"dropped": false
+				"dropped": true
 			}
 		}
 	},
