@@ -1,9 +1,9 @@
 {
-  "filename": "Fluid-1.1-Rum-OFFICIAL-raphael-20210123-gapped.zip",
-  "flavor": "eleven_gapped",
-  "version": "1.1",
-  "url": "https://sourceforge.net/projects/project-fluid/files/raphael/eleven/gapped/Fluid-1.1-Rum-OFFICIAL-raphael-20210123-gapped.zip/download",
-  "size": "1395304411",
-  "datetime": 1611485900,
-  "sha1sum": "1f7ed0f0a6cebb442b91c54fa0246d94487fcadd"
+    "filename": "Fluid-1.2-Rum-OFFICIAL-raphael-20210205-gapped.zip",
+    "flavor": "eleven_gapped",
+    "version": "1.2",
+    "url": "https://sourceforge.net/projects/project-fluid/files/raphael/eleven/gapped/Fluid-1.2-Rum-OFFICIAL-raphael-20210205-gapped.zip/download",
+    "size": "1398296198",
+    "datetime": 1612564622,
+    "sha1sum": "6c206001abd8da0e082f6a8f2e9b85219f9c0a2f"
 }
