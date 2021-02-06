@@ -1,9 +1,9 @@
 {
-  "filename": "Fluid-1.1-Rum-OFFICIAL-lavender-20210131.zip",
-  "version": "1.1",
-  "flavor": "eleven_gappless",
-  "url": "https://sourceforge.net/projects/project-fluid/files/lavender/eleven/gappless/Fluid-1.1-Rum-OFFICIAL-lavender-20210131.zip/download",
-  "size": "828274978",
-  "datetime": 1612068501,
-  "sha1sum": "8840e408cfac8b856190902e4152340eb2455971"
+    "filename": "Fluid-1.2-Rum-OFFICIAL-lavender-20210206",
+    "flavor": "eleven_gappless",
+    "version": "1.2",
+    "url": "https://sourceforge.net/projects/project-fluid/files/lavender/eleven/gappless/Fluid-1.2-Rum-OFFICIAL-lavender-20210206.zip/download",
+    "size": "824635701",
+    "datetime": 1612585608,
+    "sha1sum": "58c6fb81d175b199088d361adee67effbc507580"
 }
