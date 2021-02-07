@@ -1,9 +1,9 @@
 {
-  "filename": "Fluid-1.1-Rum-OFFICIAL-dipper-20210110-gapped.zip",
-  "flavor": "eleven_gapped",
-  "version": "1.1",
-  "url": "https://sourceforge.net/projects/project-fluid/files/dipper/eleven/gapped/Fluid-1.1-Rum-OFFICIAL-dipper-20210110-gapped.zip/download",
-  "size": "1399196834",
-  "datetime": 1610309786,
-  "sha1sum": "fd3d0edaa921e0f357f90d3495d427423f6eb1eb"
+    "filename": "Fluid-1.2-Rum-OFFICIAL-dipper-20210207-gapped",
+    "flavor": "eleven_gapped",
+    "version": "1.2",
+    "url": "https://sourceforge.net/projects/project-fluid/files/dipper/eleven/gapped/Fluid-1.2-Rum-OFFICIAL-dipper-20210207-gapped/download",
+    "size": "1400866365",
+    "datetime": 1612712587,
+    "sha1sum": "b57ea3dc0145628ff89153a595d0c8ca595cffd6"
 }
