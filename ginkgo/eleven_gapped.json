@@ -1,9 +1,9 @@
 {
-  "filename": "Fluid-1.1-Rum-OFFICIAL-ginkgo-20210111-gapped.zip",
-  "flavor": "eleven_gapped",
-  "version": "1.1",
-  "url": "https://sourceforge.net/projects/project-fluid/files/ginkgo/eleven/gapped/Fluid-1.1-Rum-OFFICIAL-ginkgo-20210111-gapped.zip/download",
-  "size": "1236156330",
-  "datetime": 1610402906,
-  "sha1sum": "499f298d245ae02d90573159da39f685683888de"
+    "filename": "Fluid-1.2-Rum-OFFICIAL-ginkgo-20210213-gapped.zip",
+    "flavor": "eleven_gapped",
+    "version": "1.2",
+    "url": "https://sourceforge.net/projects/project-fluid/files/ginkgo/eleven/gapped/Fluid-1.2-Rum-OFFICIAL-ginkgo-20210213-gapped.zip/download",
+    "size": "1328255473",
+    "datetime": 1613228991,
+    "sha1sum": "23bcb912a4ea0b23727b72bf4d439f722fd34c3e"
 }
