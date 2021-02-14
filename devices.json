@@ -1,5 +1,21 @@
 [
 	{
+		"codename": "blueline",
+		"name": "Google Pixel 3",
+		"brand": "Google",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Oliver Harrison",
+			"github_username": "HotDogfinba11",
+			"telegram_url": "http://t.me/oliverharrison"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	},
+	{
 		"codename": "beryllium",
 		"name": "Xiaomi Poco F1",
 		"brand": "Xiaomi",
