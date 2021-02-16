@@ -1,9 +1,9 @@
 {
-  "filename": "Fluid-1.1-Rum-OFFICIAL-cepheus-20210121-gapped.zip",
-  "flavor": "eleven_gapped",
-  "version": "1.1",
-  "url": "https://sourceforge.net/projects/project-fluid/files/cepheus/eleven/gapped/Fluid-1.1-Rum-OFFICIAL-cepheus-20210121-gapped.zip/download",
-  "size": "1309154788",
-  "datetime": 1611265681,
-  "sha1sum": "5fbdb03115c707052026371592befd63b57fc25a"
+    "filename": "Fluid-1.2-Rum-OFFICIAL-cepheus-20210216-gapped.zip",
+    "flavor": "eleven_gapped",
+    "version": "1.2",
+    "url": "https://sourceforge.net/projects/project-fluid/files/cepheus/eleven/gapped/Fluid-1.2-Rum-OFFICIAL-cepheus-20210216-gapped.zip/download",
+    "size": "1302949410",
+    "datetime": 1613480048,
+    "sha1sum": "d33bf9bdc025d9d1fdfda0d792eb595d8a995edc"
 }
