@@ -146,6 +146,22 @@
 		}
 	},
 	{
+		"codename": "jasmine_sprout",
+		"name": "Xiaomi Mi A2",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Clarence K",
+			"github_username": "clarencelol",
+			"telegram_url": "https://t.me/clarencelol"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	},
+	{
 		"codename": "miatoll",
 		"name": "Redmi Note 9 Series",
 		"brand": "Redmi",
@@ -160,7 +176,7 @@
 				"dropped": false
 			},
 			"eleven_gappless": {
-        "dropped": false
+        		"dropped": false
       }
 		}
 	},
