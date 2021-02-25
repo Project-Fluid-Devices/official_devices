@@ -86,6 +86,9 @@
 			"eleven_gapped": {
 				"dropped": false
 			},
+			"eleven_gappless": {
+				"dropped": false
+			},
 			"ten_gapped": {
 				"dropped": true
 			}
