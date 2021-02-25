@@ -1,9 +1,9 @@
 {
-  "filename": "Fluid-1.1-Rum-OFFICIAL-lmi-20210130-gapped.zip",
-  "flavor": "eleven_gapped",
-  "version": "1.1",
-  "url": "https://sourceforge.net/projects/project-fluid/files/lmi/eleven/gapped/Fluid-1.1-Rum-OFFICIAL-lmi-20210130-gapped.zip/download",
-  "size": "1102401581",
-  "datetime": 1612035330,
-  "sha1sum": "36a9b7713c7780c74882c71ad09d14baa0ba3128"
+    "filename": "Fluid-1.2-Rum-OFFICIAL-lmi-20210213-gapped.zip",
+    "flavor": "eleven_gapped",
+    "version": "1.2",
+    "url": "https://sourceforge.net/projects/project-fluid/files/lmi/eleven/gapped/Fluid-1.2-Rum-OFFICIAL-lmi-20210213-gapped.zip/download",
+    "size": "1109020990",
+    "datetime": 1614271772,
+    "sha1sum": "3f79f68973877c2c4dabd43bcbfaefaf3ab0c36d"
 }
