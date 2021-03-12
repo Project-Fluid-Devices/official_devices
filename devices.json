@@ -1,4 +1,20 @@
 [
+        {
+                "codename": "apollo",
+                "name": "Xiaomi Mi 10T/Pro",
+                "brand": "Xiaomi",
+                "xda_thread": "",
+                "maintainer": {
+                        "name": "Ramii Ahmed",
+                        "github_username": "Ramisky",
+                        "telegram_url": "http://t.me/ramiskyy"
+                },
+                "supported_versions": {
+                        "eleven_gapped": {
+                                "dropped": false
+                        }
+                }
+        },
 	{
 		"codename": "blueline",
 		"name": "Google Pixel 3",
