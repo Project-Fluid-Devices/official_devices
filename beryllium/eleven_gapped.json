@@ -1,9 +1,9 @@
 {
-  "filename": "Fluid-1.3-Rum-OFFICIAL-beryllium-20210310-gapped.zip",
-  "flavor": "eleven_gapped",
-  "version": "1.3",
-  "url": "https://sourceforge.net/projects/project-fluid/files/beryllium/eleven/gapped/Fluid-1.3-Rum-OFFICIAL-beryllium-20210310-gapped.zip/download",
-  "size": "1291213619",
-  "datetime": 1615373036,
-  "sha1sum": "0b9f5adf211184cf8d9ba0231d117f8325b53d32"
+    "filename": "Fluid-1.4-Rum-OFFICIAL-beryllium-20210419-gapped.zip",
+    "flavor": "eleven_gapped",
+    "version": "1.4",
+    "url": "https://sourceforge.net/projects/project-fluid/files/beryllium/eleven/gapped/Fluid-1.4-Rum-OFFICIAL-beryllium-20210419-gapped.zip/download",
+    "size": "1325251755",
+    "datetime": 1618837523,
+    "sha1sum": "a58845a70905fca5f94216f021268c53954fb680"
 }
