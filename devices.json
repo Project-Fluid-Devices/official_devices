@@ -270,6 +270,22 @@
 		}
 	},
 	{
+        	"codename": "rosy",
+        	"name": "Xiaomi Redmi 5",
+        	"brand": "Xiaomi",
+        	"xda_thread": "",
+        	"maintainer": {
+            		"name": "Kirill Ermolitskii",
+            		"github_username": "zadli",
+            		"telegram_url": "http://t.me/ZadliM"
+        	},
+        	"supported_versions": {
+            		"eleven_gapped": {
+                		"dropped": false
+            		}
+        	}
+    	},
+	{
 		"codename": "vince",
 		"name": "Xiaomi Redmi 5 Plus",
 		"brand": "Xiaomi",
