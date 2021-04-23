@@ -127,6 +127,22 @@
 		}
 	},
 	{
+                "codename": "instantnoodle",
+                "name": "OnePlus 8",
+                "brand": "OnePlus",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-04-23-fluid-1-4for-the-oneplus-8-instantnoodle.4266459/",
+                "maintainer": {
+                        "name": "Rounak Mehata",
+                        "github_username": "Rounak1619",
+                        "telegram_url": "http://t.me/rounak1619"
+                },
+                "supported_versions": {
+                        "eleven_gapped": {
+                                "dropped": false
+                        }
+                }
+        },
+	{
                 "codename": "kebab",
                 "name": "OnePlus 8T",
                 "brand": "OnePlus",
