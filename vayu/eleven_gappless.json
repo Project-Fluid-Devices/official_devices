@@ -1,9 +1,9 @@
 {
-  "filename": "",
-  "flavor": "eleven_gappless",
-  "version": "1.5",
-  "url": "",
-  "size": "734180752",
-  "datetime": 1608881181,
-  "sha1sum": ""
+    "filename": "Fluid-1.5-Rum-OFFICIAL-vayu-20210511.zip",
+    "flavor": "eleven_gappless",
+    "version": "1.5",
+    "url": "https://sourceforge.net/projects/project-fluid/files/vayu/eleven/gappless/Fluid-1.5-Rum-OFFICIAL-vayu-20210511.zip/download",
+    "size": "632771588",
+    "datetime": 1620742545,
+    "sha1sum": "f7581ecf9acf51549424c5d020db5fbe52c897e7"
 }
