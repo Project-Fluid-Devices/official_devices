@@ -360,5 +360,21 @@
 				"dropped": true
 			}
 		}
+	},
+	{
+		"codename": "ysl",
+		"name": "Xiaomi Redmi S2/Y2",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Andrey Norton",
+			"github_username": "Northn",
+			"telegram_url": "http://t.me/anorton"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
 	}
 ]
