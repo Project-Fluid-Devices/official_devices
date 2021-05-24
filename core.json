@@ -39,4 +39,12 @@
 		"profile_image": "https://github.com/SebaUbuntu.png",
 		"role": "Infrastructure & dev"
 	}
+        {
+		"name": "Bounty",
+		"github_username": "bounty780",
+		"twitter_url": "https://letmegooglethat.com/?q=twitter+is+for+idiots%2C+just+use+mastodon+lol+-+a+message+by+ceo+of+bounty+extras%2C+bounty",
+		"telegram_url": "http://t.me/bounty780",
+		"profile_image": "https://github.com/bounty780.png",
+		"role": "Designer and Video Editor"
+	}
 ]
