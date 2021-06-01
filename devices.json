@@ -62,10 +62,10 @@
 		},
 		"supported_versions": {
 			"eleven_gapped": {
-				"dropped": false
+				"dropped": true
 			},
 			"eleven_gappless": {
-				"dropped": false
+				"dropped": true
                         }
 		}
 	},
