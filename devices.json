@@ -1,9 +1,9 @@
 [
         {
-                "codename": "apollo",
+                "codename": "apollon",
                 "name": "Xiaomi Mi 10T/Pro",
                 "brand": "Xiaomi",
-                "xda_thread": "",
+                "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-06-17-fluid-1-6-for-the-xiaomi-mi-10t-pro-apollon.4278157/",
                 "maintainer": {
                         "name": "Ramii Ahmed",
                         "github_username": "Ramisky",
