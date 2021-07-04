@@ -3,9 +3,17 @@
 		"name": "Anirudh",
 		"github_username": "AndroBuddy",
 		"twitter_url": "https://twitter.com/androbuddy007",
-		"telegram_url": "http://t.me/AndroBuddy007",
+		"telegram_url": "http://t.me/AndroBuddy",
 		"profile_image": "https://github.com/AndroBuddy.png",
 		"role": "Founder & UI/UX dev"
+	},
+	{
+		"name": "Bounty",
+		"github_username": "bounty780",
+		"twitter_url": "https://twitter.com/bounty780",
+		"telegram_url": "http://t.me/bounty780",
+		"profile_image": "https://github.com/bounty780.png",
+		"role": "Designer and Video Editor"
 	},
 	{
 		"name": "Fynn",
