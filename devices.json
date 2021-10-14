@@ -176,15 +176,18 @@
 	},
 	{
 		"codename": "lmi",
-		"name": "Xiaomi Poco F2 Pro",
+		"name": "Xiaomi POCO F2 Pro",
 		"brand": "Xiaomi",
-		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-01-08-fluid-1-1-for-the-redmi-k30-pro-poco-f2-pro.4215465/",
+		"xda_thread": "",
 		"maintainer": {
-			"name": "Ramii Ahmed",
-			"github_username": "Ramisky",
-			"telegram_url": "http://t.me/ramiskyy"
+			"name": "Sebastiano Barezzi",
+			"github_username": "SebaUbuntu",
+			"telegram_url": "http://t.me/SebaUbuntu"
 		},
 		"supported_versions": {
+			"twelve_gappless": {
+				"dropped": false
+			},
 			"eleven_gapped": {
 				"dropped": true
 			},
