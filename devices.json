@@ -1,20 +1,20 @@
 [
-        {
-                "codename": "apollon",
-                "name": "Xiaomi Mi 10T/Pro",
-                "brand": "Xiaomi",
-                "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-06-17-fluid-1-6-for-the-xiaomi-mi-10t-pro-apollon.4278157/",
-                "maintainer": {
-                        "name": "Ramii Ahmed",
-                        "github_username": "Ramisky",
-                        "telegram_url": "http://t.me/ramiskyy"
-                },
-                "supported_versions": {
-                        "eleven_gapped": {
-                                "dropped": false
-                        }
-                }
-        },
+	{
+		"codename": "apollon",
+		"name": "Xiaomi Mi 10T/Pro",
+		"brand": "Xiaomi",
+		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-06-17-fluid-1-6-for-the-xiaomi-mi-10t-pro-apollon.4278157/",
+		"maintainer": {
+			"name": "Ramii Ahmed",
+			"github_username": "Ramisky",
+			"telegram_url": "http://t.me/ramiskyy"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	},
 	{
 		"codename": "blueline",
 		"name": "Google Pixel 3",
@@ -55,18 +55,18 @@
 		"name": "Xiaomi Poco F2 Pro",
 		"brand": "Xiaomi",
 		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-01-08-fluid-1-1-for-the-redmi-k30-pro-poco-f2-pro.4215465/",
-                "maintainer": {
-                        "name": "Ramii Ahmed",
-                        "github_username": "Ramisky",
-                        "telegram_url": "http://t.me/ramiskyy"
-                },
+		"maintainer": {
+			"name": "Ramii Ahmed",
+			"github_username": "Ramisky",
+			"telegram_url": "http://t.me/ramiskyy"
+		},
 		"supported_versions": {
 			"eleven_gapped": {
 				"dropped": true
 			},
 			"eleven_gappless": {
 				"dropped": true
-                        }
+			}
 		}
 	},
 	{
@@ -127,53 +127,53 @@
 		}
 	},
 	{
-                "codename": "instantnoodle",
-                "name": "OnePlus 8",
-                "brand": "OnePlus",
-                "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-04-23-fluid-1-4for-the-oneplus-8-instantnoodle.4266459/",
-                "maintainer": {
-                        "name": "Rounak Mehata",
-                        "github_username": "Rounak1619",
-                        "telegram_url": "http://t.me/rounak1619"
-                },
-                "supported_versions": {
-                        "eleven_gapped": {
-                                "dropped": false
-                        }
-                }
-        },
+		"codename": "instantnoodle",
+		"name": "OnePlus 8",
+		"brand": "OnePlus",
+		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-04-23-fluid-1-4for-the-oneplus-8-instantnoodle.4266459/",
+		"maintainer": {
+			"name": "Rounak Mehata",
+			"github_username": "Rounak1619",
+			"telegram_url": "http://t.me/rounak1619"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	},
 	{
-                "codename": "kebab",
-                "name": "OnePlus 8T",
-                "brand": "OnePlus",
-                "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-04-21-fluid-1-4for-the-oneplus-8t-kebab.4264945/",
-                "maintainer": {
-                        "name": "Rounak Mehata",
-                        "github_username": "Rounak1619",
-                        "telegram_url": "http://t.me/rounak1619"
-                },
-                "supported_versions": {
-                        "eleven_gapped": {
-                                "dropped": false
-                        }
-                }
-        },
-        {
-                "codename": "laurel_sprout",
-                "name": "Xiaomi Mi A3",
-                "brand": "Xiaomi",
-                "xda_thread": "",
-                "maintainer": {
-                        "name": "Raghav",
-                        "github_username": "Raghav2995",
-                        "telegram_url": "http://t.me/Raghav299"
-                },
-                "supported_versions": {
-                        "eleven_gapped": {
-                                "dropped": false
-                        }
-                }
-        },
+		"codename": "kebab",
+		"name": "OnePlus 8T",
+		"brand": "OnePlus",
+		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-04-21-fluid-1-4for-the-oneplus-8t-kebab.4264945/",
+		"maintainer": {
+			"name": "Rounak Mehata",
+			"github_username": "Rounak1619",
+			"telegram_url": "http://t.me/rounak1619"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	},
+	{
+		"codename": "laurel_sprout",
+		"name": "Xiaomi Mi A3",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Raghav",
+			"github_username": "Raghav2995",
+			"telegram_url": "http://t.me/Raghav299"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	},
 	{
 		"codename": "lavender",
 		"name": "Xiaomi Redmi Note 7",
@@ -246,8 +246,8 @@
 				"dropped": false
 			},
 			"eleven_gappless": {
-        			"dropped": false
-      }
+				"dropped": false
+			}
 		}
 	},
 	{
@@ -269,7 +269,7 @@
 			}
 		}
 	},
-    	{
+	{
 		"codename": "rolex",
 		"name": "Xiaomi Redmi 4A",
 		"brand": "Xiaomi",
@@ -305,24 +305,24 @@
 		}
 	},
 	{
-        	"codename": "rosy",
-        	"name": "Xiaomi Redmi 5",
-        	"brand": "Xiaomi",
-        	"xda_thread": "",
-        	"maintainer": {
-            		"name": "Kirill Ermolitskii",
-            		"github_username": "zadli",
-            		"telegram_url": "http://t.me/ZadliM"
-        	},
-        	"supported_versions": {
-            		"eleven_gapped": {
-                		"dropped": false
-            		},
+		"codename": "rosy",
+		"name": "Xiaomi Redmi 5",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Kirill Ermolitskii",
+			"github_username": "zadli",
+			"telegram_url": "http://t.me/ZadliM"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			},
 			"eleven_gappless": {
 				"dropped": false
 			}
-        	}
-    	},
+		}
+	},
 	{
 		"codename": "vince",
 		"name": "Xiaomi Redmi 5 Plus",
