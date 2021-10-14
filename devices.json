@@ -16,22 +16,6 @@
 		}
 	},
 	{
-		"codename": "blueline",
-		"name": "Google Pixel 3",
-		"brand": "Google",
-		"xda_thread": "",
-		"maintainer": {
-			"name": "Oliver Harrison",
-			"github_username": "HotDogfinba11",
-			"telegram_url": "http://t.me/oliverharrison"
-		},
-		"supported_versions": {
-			"eleven_gapped": {
-				"dropped": false
-			}
-		}
-	},
-	{
 		"codename": "beryllium",
 		"name": "Xiaomi Poco F1",
 		"brand": "Xiaomi",
@@ -51,21 +35,18 @@
 		}
 	},
 	{
-		"codename": "lmi",
-		"name": "Xiaomi Poco F2 Pro",
-		"brand": "Xiaomi",
-		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-01-08-fluid-1-1-for-the-redmi-k30-pro-poco-f2-pro.4215465/",
+		"codename": "blueline",
+		"name": "Google Pixel 3",
+		"brand": "Google",
+		"xda_thread": "",
 		"maintainer": {
-			"name": "Ramii Ahmed",
-			"github_username": "Ramisky",
-			"telegram_url": "http://t.me/ramiskyy"
+			"name": "Oliver Harrison",
+			"github_username": "HotDogfinba11",
+			"telegram_url": "http://t.me/oliverharrison"
 		},
 		"supported_versions": {
 			"eleven_gapped": {
-				"dropped": true
-			},
-			"eleven_gappless": {
-				"dropped": true
+				"dropped": false
 			}
 		}
 	},
@@ -194,6 +175,25 @@
 		}
 	},
 	{
+		"codename": "lmi",
+		"name": "Xiaomi Poco F2 Pro",
+		"brand": "Xiaomi",
+		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-01-08-fluid-1-1-for-the-redmi-k30-pro-poco-f2-pro.4215465/",
+		"maintainer": {
+			"name": "Ramii Ahmed",
+			"github_username": "Ramisky",
+			"telegram_url": "http://t.me/ramiskyy"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": true
+			},
+			"eleven_gappless": {
+				"dropped": true
+			}
+		}
+	},
+	{
 		"codename": "ginkgo",
 		"name": "Xiaomi Redmi Note 8/8T",
 		"brand": "Xiaomi",
@@ -286,14 +286,14 @@
 		}
 	},
 	{
-		"codename": "vayu",
-		"name": "Xiaomi POCO X3 Pro",
+		"codename": "rosy",
+		"name": "Xiaomi Redmi 5",
 		"brand": "Xiaomi",
 		"xda_thread": "",
 		"maintainer": {
-			"name": "JoyalJose",
-			"github_username": "Foxtrot47",
-			"telegram_url": "http://t.me/Foxtrot47"
+			"name": "Kirill Ermolitskii",
+			"github_username": "zadli",
+			"telegram_url": "http://t.me/ZadliM"
 		},
 		"supported_versions": {
 			"eleven_gapped": {
@@ -305,14 +305,14 @@
 		}
 	},
 	{
-		"codename": "rosy",
-		"name": "Xiaomi Redmi 5",
+		"codename": "vayu",
+		"name": "Xiaomi POCO X3 Pro",
 		"brand": "Xiaomi",
 		"xda_thread": "",
 		"maintainer": {
-			"name": "Kirill Ermolitskii",
-			"github_username": "zadli",
-			"telegram_url": "http://t.me/ZadliM"
+			"name": "JoyalJose",
+			"github_username": "Foxtrot47",
+			"telegram_url": "http://t.me/Foxtrot47"
 		},
 		"supported_versions": {
 			"eleven_gapped": {
@@ -346,6 +346,22 @@
 		}
 	},
 	{
+		"codename": "ysl",
+		"name": "Xiaomi Redmi S2/Y2",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Andrey Norton",
+			"github_username": "Northn",
+			"telegram_url": "http://t.me/anorton"
+		},
+		"supported_versions": {
+			"eleven_gapped": {
+				"dropped": false
+			}
+		}
+	}
+	{
 		"codename": "whyred",
 		"name": "Xiaomi Redmi Note 5",
 		"brand": "Xiaomi",
@@ -361,22 +377,6 @@
 			},
 			"ten_gapped": {
 				"dropped": true
-			}
-		}
-	},
-	{
-		"codename": "ysl",
-		"name": "Xiaomi Redmi S2/Y2",
-		"brand": "Xiaomi",
-		"xda_thread": "",
-		"maintainer": {
-			"name": "Andrey Norton",
-			"github_username": "Northn",
-			"telegram_url": "http://t.me/anorton"
-		},
-		"supported_versions": {
-			"eleven_gapped": {
-				"dropped": false
 			}
 		}
 	}
