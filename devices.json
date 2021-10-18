@@ -226,11 +226,14 @@
 			"telegram_url": "https://t.me/clarencelol"
 		},
 		"supported_versions": {
-			"eleven_gapped": {
+			"twelve_gappless": {
 				"dropped": false
 			},
+			"eleven_gapped": {
+				"dropped": true
+			},
 			"eleven_gappless": {
-				"dropped": false
+				"dropped": true
 			}
 		}
 	},
