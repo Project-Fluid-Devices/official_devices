@@ -365,6 +365,22 @@
 		}
 	},
 	{
+		"codename": "wayne",
+		"name": "Xiaomi Mi 6X",
+		"brand": "Xiaomi",
+		"xda_thread": "",
+		"maintainer": {
+			"name": "Clarence K",
+			"github_username": "clarencelol",
+			"telegram_url": "https://t.me/clarencelol"
+		},
+		"supported_versions": {
+			"twelve_gappless": {
+				"dropped": false
+			}
+		}
+	},
+	{
 		"codename": "whyred",
 		"name": "Xiaomi Redmi Note 5",
 		"brand": "Xiaomi",
