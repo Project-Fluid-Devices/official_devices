@@ -255,7 +255,23 @@
 				"dropped": false
 			}
 		}
-	},
+       },
+       {
+                "codename": "onclite",
+                "name": "Xiaomi Redmi 7",
+                "brand": "Xiaomi",
+                "xda_thread": "",
+                "maintainer": {
+                        "name": "Sam As",
+                        "github_username": "SamAs700",
+                        "telegram_url": "https://t.me/SamAs700"
+                },
+                "supported_versions": {
+                        "twelve_gappless": {
+                                "dropped": false
+                        }
+                }
+        },
 	{
 		"codename": "raphael",
 		"name": "Xiaomi Mi 9T Pro",
