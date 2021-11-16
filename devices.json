@@ -166,6 +166,9 @@
 			"telegram_url": "https://t.me/VerpaPhallus"
 		},
 		"supported_versions": {
+                        "twelve_gappless": {
+                                "dropped": false
+                        },
 			"eleven_gapped": {
 				"dropped": false
 			},
