@@ -11,8 +11,14 @@
 		},
 		"supported_versions": {
 			"eleven_gapped": {
+				"dropped": true
+			},
+			"twelve_gappless": {
 				"dropped": false
-			}
+			},			
+			"twelve_gapped": {
+				"dropped": false
+			}			
 		}
 	},
 	{
