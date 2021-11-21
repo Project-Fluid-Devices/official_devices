@@ -248,8 +248,8 @@
 	},
 	{
 		"codename": "miatoll",
-		"name": "Redmi Note 9 Series",
-		"brand": "Redmi",
+		"name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max",
+		"brand": "Xiaomi",
 		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-1-2-fluid-1-1-for-miatoll.4212633/",
 		"maintainer": {
 			"name": "Alexander Winkowski",
@@ -257,11 +257,14 @@
 			"telegram_url": "https://t.me/dereference"
 		},
 		"supported_versions": {
-			"eleven_gapped": {
+			"twelve_gappless": {
 				"dropped": false
 			},
+			"eleven_gapped": {
+				"dropped": true
+			},
 			"eleven_gappless": {
-				"dropped": false
+				"dropped": true
 			}
 		}
        },
