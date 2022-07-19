@@ -257,6 +257,9 @@
 			"telegram_url": "https://t.me/dereference"
 		},
 		"supported_versions": {
+			"twelve_gapped": {
+				"dropped": false
+			},
 			"twelve_gappless": {
 				"dropped": false
 			},
