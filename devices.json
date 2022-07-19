@@ -32,11 +32,17 @@
 			"telegram_url": "http://t.me/Reignz3"
 		},
 		"supported_versions": {
-			"eleven_gapped": {
+			"twelve_gapped": {
 				"dropped": false
 			},
-			"eleven_gappless": {
+			"twelve_gappless": {
 				"dropped": false
+			},
+			"eleven_gapped": {
+				"dropped": true
+			},
+			"eleven_gappless": {
+				"dropped": true
 			}
 		}
 	},
