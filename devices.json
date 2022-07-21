@@ -426,17 +426,23 @@
 		"brand": "Xiaomi",
 		"xda_thread": "",
 		"maintainer": {
-			"name": "Sebastiano Barezzi",
-			"github_username": "SebaUbuntu",
-			"telegram_url": "http://t.me/SebaUbuntu"
+			"name": "Arnav Puranik",
+			"github_username": "arnavpuranik",
+			"telegram_url": "http://t.me/arnavpuranik"
 		},
 		"supported_versions": {
+                        "twelve_gappless": {
+                                "dropped": false
+                        },
+                        "twelve_gapped": {
+                                "dropped": false
+                        },
 			"eleven_gappless": {
 				"dropped": true
 			},
 			"ten_gapped": {
 				"dropped": true
-			}
+                      }
 		}
 	}
 ]
