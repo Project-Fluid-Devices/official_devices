@@ -5,15 +5,7 @@
 		"twitter_url": "https://twitter.com/androbuddy007",
 		"telegram_url": "http://t.me/AndroBuddy",
 		"profile_image": "https://github.com/AndroBuddy.png",
-		"role": "Founder & UI/UX dev"
-	},
-	{
-		"name": "Fynn",
-		"github_username": "elluzion",
-		"twitter_url": "https://twitter.com/elluzionmusic",
-		"telegram_url": "http://t.me/elluzion",
-		"profile_image": "https://github.com/elluzion.png",
-		"role": "Designer & Frontend dev"
+		"role": "Founder & UI/UX"
 	},
 	{
 		"name": "Pavel",
@@ -21,7 +13,7 @@
 		"twitter_url": "https://twitter.com/ender13241",
 		"telegram_url": "http://t.me/ender1324",
 		"profile_image": "https://github.com/ender1324.png",
-		"role": "Founder & Core dev"
+		"role": "Founder & Core"
 	},
 	{
 		"name": "Sahil",
@@ -29,7 +21,15 @@
 		"twitter_url": "https://twitter.com/Ovenoboyo69",
 		"telegram_url": "http://t.me/Ovenoboyo",
 		"profile_image": "https://github.com/Ovenoboyo.png",
-		"role": "Founder & Backend dev"
+		"role": "Founder & Backend"
+	},
+	{
+		"name": "Fynn",
+		"github_username": "elluzion",
+		"twitter_url": "https://twitter.com/elluzionmusic",
+		"telegram_url": "http://t.me/elluzion",
+		"profile_image": "https://github.com/elluzion.png",
+		"role": "Developer & UI/UX"
 	},
 	{
 		"name": "Sebastiano",
@@ -37,6 +37,14 @@
 		"twitter_url": "https://twitter.com/SebaUbuntu",
 		"telegram_url": "http://t.me/SebaUbuntu",
 		"profile_image": "https://github.com/SebaUbuntu.png",
-		"role": "Infrastructure & dev"
+		"role": "Infrastructure"
+	},
+	{
+		"name": "Alexander",
+		"github_username": "dereference23",
+		"twitter_url": "https://twitter.com/SebaUbuntu",
+		"telegram_url": "http://t.me/dereference",
+		"profile_image": "https://github.com/dereference23.png",
+		"role": "Developer"
 	}
 ]
