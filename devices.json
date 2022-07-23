@@ -1,11 +1,10 @@
 [
 	{
 		"brand": "Google",
-		"devices": {
-			"0": {
+		"devices": [
+			{
 				"codename": "blueline",
 				"name": "Google Pixel 3",
-				"brand": "Google",
 				"xda_thread": "",
 				"maintainer": {
 					"name": "Oliver Harrison",
@@ -18,15 +17,14 @@
 					}
 				}
 			}
-		}
+		]
 	},
 	{
 		"brand": "OnePlus",
-		"devices": {
-			"0": {
+		"devices": [
+			{
 				"codename": "instantnoodle",
 				"name": "OnePlus 8",
-				"brand": "OnePlus",
 				"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-04-23-fluid-1-4for-the-oneplus-8-instantnoodle.4266459/",
 				"maintainer": {
 					"name": "Rounak Mehata",
@@ -39,10 +37,9 @@
 					}
 				}
 			},
-			"1": {
+			{
 				"codename": "kebab",
 				"name": "OnePlus 8T",
-				"brand": "OnePlus",
 				"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-04-21-fluid-1-4for-the-oneplus-8t-kebab.4264945/",
 				"maintainer": {
 					"name": "Rounak Mehata",
@@ -55,12 +52,12 @@
 					}
 				}
 			}
-		}
+		]
 	},
 	{
 		"brand": "Poco",
-		"devices": {
-			"0": {
+		"devices": [
+			{
 				"codename": "beryllium",
 				"name": "POCO F1",
 				"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-25-12-2020-fluid-1-0-for-the-xiaomi-poco-f1.4210509/",
@@ -84,7 +81,7 @@
 					}
 				}
 			},
-			"1": {
+			{
 				"codename": "lmi",
 				"name": "POCO F2 Pro",
 				"xda_thread": "",
@@ -105,7 +102,7 @@
 					}
 				}
 			},
-			"2": {
+			{
 				"codename": "miatoll",
 				"name": "POCO M2 Pro",
 				"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-1-2-fluid-1-1-for-miatoll.4212633/",
@@ -129,7 +126,7 @@
 					}
 				}
 			},
-			"3": {
+			{
 				"codename": "vayu",
 				"name": "POCO X3 Pro",
 				"xda_thread": "",
@@ -147,102 +144,12 @@
 					}
 				}
 			}
-		}
+		]
 	},
 	{
-		"brand": "Xiaomi",
-		"devices": {
-			"0": {
-				"codename": "apollon",
-				"name": "Mi 10T/Pro",
-				"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-06-17-fluid-1-6-for-the-xiaomi-mi-10t-pro-apollon.4278157/",
-				"maintainer": {
-					"name": "Ramii Ahmed",
-					"github_username": "Ramisky",
-					"telegram_url": "http://t.me/ramiskyy"
-				},
-				"supported_versions": {
-					"eleven_gapped": {
-						"dropped": true
-					},
-					"twelve_gappless": {
-						"dropped": false
-					},
-					"twelve_gapped": {
-						"dropped": false
-					}
-				}
-			},
-			"1": {
-				"codename": "cepheus",
-				"name": "Mi 9",
-				"xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-fluid-1-0-xiaomi-mi9-t4168951",
-				"maintainer": {
-					"name": "Fynn R",
-					"github_username": "elluzion",
-					"telegram_url": "http://t.me/elluzion"
-				},
-				"supported_versions": {
-					"eleven_gapped": {
-						"dropped": false
-					},
-					"eleven_gappless": {
-						"dropped": false
-					}
-				}
-			},
-			"2": {
-				"codename": "davinci",
-				"name": "Mi 9T",
-				"xda_thread": "",
-				"maintainer": {
-					"name": "Kirill Ermolitskii",
-					"github_username": "zadli",
-					"telegram_url": "http://t.me/ZadliM"
-				},
-				"supported_versions": {
-					"eleven_gapped": {
-						"dropped": false
-					},
-					"eleven_gappless": {
-						"dropped": false
-					},
-					"ten_gapped": {
-						"dropped": true
-					}
-				}
-			},
-			"3": {
-				"codename": "dipper",
-				"name": "Mi 8",
-				"xda_thread": "",
-				"maintainer": {
-					"name": "Pavel Petrov",
-					"github_username": "ender1324",
-					"telegram_url": "http://t.me/ender1324"
-				},
-				"supported_versions": {
-					"eleven_gapped": {
-						"dropped": false
-					}
-				}
-			},
-			"4": {
-				"codename": "laurel_sprout",
-				"name": "Mi A3",
-				"xda_thread": "",
-				"maintainer": {
-					"name": "Raghav",
-					"github_username": "Raghav2995",
-					"telegram_url": "http://t.me/Raghav299"
-				},
-				"supported_versions": {
-					"eleven_gapped": {
-						"dropped": false
-					}
-				}
-			},
-			"5": {
+		"brand": "Redmi",
+		"devices": [
+			{
 				"codename": "lavender",
 				"name": "Redmi Note 7",
 				"xda_thread": "",
@@ -263,7 +170,7 @@
 					}
 				}
 			},
-			"6": {
+			{
 				"codename": "ginkgo",
 				"name": "Redmi Note 8/8T",
 				"xda_thread": "",
@@ -281,28 +188,7 @@
 					}
 				}
 			},
-			"7": {
-				"codename": "jasmine_sprout",
-				"name": "Mi A2",
-				"xda_thread": "",
-				"maintainer": {
-					"name": "Clarence K",
-					"github_username": "clarencelol",
-					"telegram_url": "https://t.me/clarencelol"
-				},
-				"supported_versions": {
-					"twelve_gappless": {
-						"dropped": false
-					},
-					"eleven_gapped": {
-						"dropped": true
-					},
-					"eleven_gappless": {
-						"dropped": true
-					}
-				}
-			},
-			"8": {
+			{
 				"codename": "miatoll",
 				"name": "Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max",
 				"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-1-2-fluid-1-1-for-miatoll.4212633/",
@@ -326,7 +212,7 @@
 					}
 				}
 			},
-			"9": {
+			{
 				"codename": "onclite",
 				"name": "Redmi 7",
 				"xda_thread": "",
@@ -341,25 +227,7 @@
 					}
 				}
 			},
-			"10": {
-				"codename": "raphael",
-				"name": "Mi 9T Pro",
-				"xda_thread": "",
-				"maintainer": {
-					"name": "Alexandru S",
-					"github_username": "sashascurtu",
-					"telegram_url": "http://t.me/san9scurtu"
-				},
-				"supported_versions": {
-					"eleven_gapped": {
-						"dropped": true
-					},
-					"eleven_gappless": {
-						"dropped": true
-					}
-				}
-			},
-			"11": {
+			{
 				"codename": "rolex",
 				"name": "Redmi 4A",
 				"xda_thread": "",
@@ -374,7 +242,7 @@
 					}
 				}
 			},
-			"12": {
+			{
 				"codename": "rosy",
 				"name": "Redmi 5",
 				"xda_thread": "",
@@ -392,7 +260,7 @@
 					}
 				}
 			},
-			"13": {
+			{
 				"codename": "vince",
 				"name": "Redmi 5 Plus",
 				"xda_thread": "",
@@ -413,7 +281,7 @@
 					}
 				}
 			},
-			"14": {
+			{
 				"codename": "ysl",
 				"name": "Redmi S2/Y2",
 				"xda_thread": "",
@@ -428,22 +296,7 @@
 					}
 				}
 			},
-			"15": {
-				"codename": "wayne",
-				"name": "Mi 6X",
-				"xda_thread": "",
-				"maintainer": {
-					"name": "Clarence K",
-					"github_username": "clarencelol",
-					"telegram_url": "https://t.me/clarencelol"
-				},
-				"supported_versions": {
-					"twelve_gappless": {
-						"dropped": false
-					}
-				}
-			},
-			"16": {
+			{
 				"codename": "whyred",
 				"name": "Redmi Note 5",
 				"xda_thread": "",
@@ -467,6 +320,155 @@
 					}
 				}
 			}
-		}
+		]
+	},
+	{
+		"brand": "Xiaomi",
+		"devices": [
+			{
+				"codename": "apollon",
+				"name": "Mi 10T/Pro",
+				"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-06-17-fluid-1-6-for-the-xiaomi-mi-10t-pro-apollon.4278157/",
+				"maintainer": {
+					"name": "Ramii Ahmed",
+					"github_username": "Ramisky",
+					"telegram_url": "http://t.me/ramiskyy"
+				},
+				"supported_versions": {
+					"eleven_gapped": {
+						"dropped": true
+					},
+					"twelve_gappless": {
+						"dropped": false
+					},
+					"twelve_gapped": {
+						"dropped": false
+					}
+				}
+			},
+			{
+				"codename": "cepheus",
+				"name": "Mi 9",
+				"xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-fluid-1-0-xiaomi-mi9-t4168951",
+				"maintainer": {
+					"name": "Fynn R",
+					"github_username": "elluzion",
+					"telegram_url": "http://t.me/elluzion"
+				},
+				"supported_versions": {
+					"eleven_gapped": {
+						"dropped": false
+					},
+					"eleven_gappless": {
+						"dropped": false
+					}
+				}
+			},
+			{
+				"codename": "davinci",
+				"name": "Mi 9T",
+				"xda_thread": "",
+				"maintainer": {
+					"name": "Kirill Ermolitskii",
+					"github_username": "zadli",
+					"telegram_url": "http://t.me/ZadliM"
+				},
+				"supported_versions": {
+					"eleven_gapped": {
+						"dropped": false
+					},
+					"eleven_gappless": {
+						"dropped": false
+					},
+					"ten_gapped": {
+						"dropped": true
+					}
+				}
+			},
+			{
+				"codename": "dipper",
+				"name": "Mi 8",
+				"xda_thread": "",
+				"maintainer": {
+					"name": "Pavel Petrov",
+					"github_username": "ender1324",
+					"telegram_url": "http://t.me/ender1324"
+				},
+				"supported_versions": {
+					"eleven_gapped": {
+						"dropped": false
+					}
+				}
+			},
+			{
+				"codename": "laurel_sprout",
+				"name": "Mi A3",
+				"xda_thread": "",
+				"maintainer": {
+					"name": "Raghav",
+					"github_username": "Raghav2995",
+					"telegram_url": "http://t.me/Raghav299"
+				},
+				"supported_versions": {
+					"eleven_gapped": {
+						"dropped": false
+					}
+				}
+			},
+			{
+				"codename": "jasmine_sprout",
+				"name": "Mi A2",
+				"xda_thread": "",
+				"maintainer": {
+					"name": "Clarence K",
+					"github_username": "clarencelol",
+					"telegram_url": "https://t.me/clarencelol"
+				},
+				"supported_versions": {
+					"twelve_gappless": {
+						"dropped": false
+					},
+					"eleven_gapped": {
+						"dropped": true
+					},
+					"eleven_gappless": {
+						"dropped": true
+					}
+				}
+			},
+			{
+				"codename": "raphael",
+				"name": "Mi 9T Pro",
+				"xda_thread": "",
+				"maintainer": {
+					"name": "Alexandru S",
+					"github_username": "sashascurtu",
+					"telegram_url": "http://t.me/san9scurtu"
+				},
+				"supported_versions": {
+					"eleven_gapped": {
+						"dropped": true
+					},
+					"eleven_gappless": {
+						"dropped": true
+					}
+				}
+			},
+			{
+				"codename": "wayne",
+				"name": "Mi 6X",
+				"xda_thread": "",
+				"maintainer": {
+					"name": "Clarence K",
+					"github_username": "clarencelol",
+					"telegram_url": "https://t.me/clarencelol"
+				},
+				"supported_versions": {
+					"twelve_gappless": {
+						"dropped": false
+					}
+				}
+			}
+		]
 	}
 ]
