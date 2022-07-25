@@ -335,14 +335,14 @@
 					"telegram_url": "http://t.me/ramiskyy"
 				},
 				"supported_versions": {
-					"eleven_gapped": {
+					"twelve_gapped": {
 						"dropped": true
 					},
 					"twelve_gappless": {
-						"dropped": false
+						"dropped": true
 					},
-					"twelve_gapped": {
-						"dropped": false
+					"eleven_gapped": {
+						"dropped": true
 					}
 				}
 			},
