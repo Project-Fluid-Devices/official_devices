@@ -13,7 +13,7 @@
 				},
 				"supported_versions": {
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					}
 				}
 			}
@@ -33,7 +33,7 @@
 				},
 				"supported_versions": {
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					}
 				}
 			},
@@ -48,7 +48,7 @@
 				},
 				"supported_versions": {
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					}
 				}
 			}
@@ -137,10 +137,10 @@
 				},
 				"supported_versions": {
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					},
 					"eleven_gappless": {
-						"dropped": false
+						"dropped": true
 					}
 				}
 			}
@@ -163,10 +163,10 @@
 						"dropped": false
 					},
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					},
 					"eleven_gappless": {
-						"dropped": false
+						"dropped": true
 					}
 				}
 			},
@@ -181,10 +181,10 @@
 				},
 				"supported_versions": {
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					},
 					"eleven_gappless": {
-						"dropped": false
+						"dropped": true
 					}
 				}
 			},
@@ -223,7 +223,7 @@
 				},
 				"supported_versions": {
 					"twelve_gappless": {
-						"dropped": false
+						"dropped": true
 					}
 				}
 			},
@@ -253,10 +253,10 @@
 				},
 				"supported_versions": {
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					},
 					"eleven_gappless": {
-						"dropped": false
+						"dropped": true
 					}
 				}
 			},
@@ -271,10 +271,10 @@
 				},
 				"supported_versions": {
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					},
 					"eleven_gappless": {
-						"dropped": false
+						"dropped": true
 					},
 					"ten_gapped": {
 						"dropped": true
@@ -292,7 +292,7 @@
 				},
 				"supported_versions": {
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					}
 				}
 			},
@@ -357,10 +357,10 @@
 				},
 				"supported_versions": {
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					},
 					"eleven_gappless": {
-						"dropped": false
+						"dropped": true
 					}
 				}
 			},
@@ -375,10 +375,10 @@
 				},
 				"supported_versions": {
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					},
 					"eleven_gappless": {
-						"dropped": false
+						"dropped": true
 					},
 					"ten_gapped": {
 						"dropped": true
@@ -396,7 +396,7 @@
 				},
 				"supported_versions": {
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					}
 				}
 			},
@@ -411,7 +411,7 @@
 				},
 				"supported_versions": {
 					"eleven_gapped": {
-						"dropped": false
+						"dropped": true
 					}
 				}
 			},
