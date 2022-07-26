@@ -131,11 +131,17 @@
 				"name": "POCO X3 Pro",
 				"xda_thread": "",
 				"maintainer": {
-					"name": "JoyalJose",
-					"github_username": "Foxtrot47",
-					"telegram_url": "http://t.me/Foxtrot47"
+					"name": "Raghav",
+					"github_username": "raghavt20",
+					"telegram_url": "http://t.me/raghavt20"
 				},
 				"supported_versions": {
+					"twelve_gappless": {
+						"dropped": false
+					},
+					"twelve_gapped": {
+						"dropped": false
+					},
 					"eleven_gapped": {
 						"dropped": true
 					},
