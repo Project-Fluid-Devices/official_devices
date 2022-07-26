@@ -358,11 +358,17 @@
 			"telegram_url": "http://t.me/raghavt20"
 		},
 		"supported_versions": {
+                        "twelve_gappless": {
+                                "dropped": false
+                        },
+                        "twelve_gapped": {
+                                "dropped": false
+                        },
 			"eleven_gapped": {
-				"dropped": false
+				"dropped": true
 			},
 			"eleven_gappless": {
-				"dropped": false
+				"dropped": true
 			}
 		}
 	},
