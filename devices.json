@@ -1,4 +1,27 @@
 [
+        {
+                "brand": "Asus",
+                "devices": [
+                        {
+                                "codename": "X00QD",
+                                "name": "Asus ZenFone 5",
+                                "xda_thread": "",
+                                "maintainer": {
+                                        "name": "MLZ94",
+                                        "github_username": "MLZ94",
+                                        "telegram_url": "http://t.me/MLZ94"
+                                },
+                                "supported_versions": {
+					"twelve_gapped": {
+						"dropped": false
+					},
+					"twelve_gappless": {
+						"dropped": false
+					}
+ 				}
+                        }
+                ]
+        },
 	{
 		"brand": "Google",
 		"devices": [
