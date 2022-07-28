@@ -185,9 +185,12 @@
 				"maintainer": {
 					"name": "Sfier Reichenbach Phallus",
 					"github_username": "DillerOFire",
-					"telegram_url": "https://t.me/VerpaPhallus"
+					"telegram_url": "https://t.me/VerpaSRP"
 				},
 				"supported_versions": {
+					"twelve_gapped": {
+						"dropped": false
+					},
 					"twelve_gappless": {
 						"dropped": false
 					},
