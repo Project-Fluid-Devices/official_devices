@@ -74,7 +74,25 @@
 						"dropped": true
 					}
 				}
-			}
+			},
+                        {
+                                "codename": "lemonades",
+                                "name": "OnePlus 9R",
+                                "xda_thread": "",
+                                "maintainer": {
+                                        "name": "Arnav",
+                                        "github_username": "arnavpuranik",
+                                        "telegram_url": "http://t.me/arnavpuranik"
+                                },
+                                "supported_versions": {
+                                        "twelve_gapped": {
+                                        "dropped": false
+                                        },
+                                        "twelve_gappless": {
+                                        "dropped": false
+                                        }
+                                }
+                        }
 		]
 	},
 	{
